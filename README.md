@@ -34,6 +34,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O habits é um app para ajudar a rastrear os hábitos.
 
+- [Visite o Site online](https://bruno-ronnan.github.io/nlw-Setup/)
 
 ## 🔖 Layout
 
